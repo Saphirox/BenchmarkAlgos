@@ -1,0 +1,5 @@
+pytest
+pytest-benchmark
+kaleido
+pandas
+numpy
